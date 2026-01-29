@@ -1,10 +1,10 @@
-# TargetedCV | myCVpath
+# myCVpath
 
 AI-powered career optimization platform designed to bridge the gap between candidate experience and professional opportunities.
 
-## What is TargetedCV?
+## What is myCVpath?
 
-TargetedCV (myCVpath) is an advanced multi-agent AI system that enhances the resume creation process. It analyzes job descriptions in real-time, identifies key requirements and experience gaps, and optimizes CV content to improve relevance for both Applicant Tracking Systems (ATS) and human recruiters.
+myCVpath is an advanced multi-agent AI system that enhances the resume creation process. It analyzes job descriptions in real-time, identifies key requirements and experience gaps, and optimizes CV content to improve relevance for both Applicant Tracking Systems (ATS) and human recruiters.
 
 ## Key Features
 
@@ -13,6 +13,13 @@ TargetedCV (myCVpath) is an advanced multi-agent AI system that enhances the res
 - **Versioned Master CV**: A centralized source of truth for career history, enabling the creation of job-specific tailored documents.
 - **Strategic Job Analysis**: Detailed identification of semantic gaps between candidate profiles and job requirements.
 
+## Contact
+
+- **Website**: [mycvpath.com](https://mycvpath.com)
+- **Support**: [support@mycvpath.com](mailto:support@mycvpath.com)
+- **Legal**: [legal@mycvpath.com](mailto:legal@mycvpath.com)
+- **Privacy**: [privacy@mycvpath.com](mailto:privacy@mycvpath.com)
+
 ---
 
-*TargetedCV is a closed-source application. For inquiries, please contact our team.*
+*myCVpath is a closed-source application.*
