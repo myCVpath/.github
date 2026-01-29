@@ -1,26 +1,17 @@
 # TargetedCV | myCVpath
 
-AI-powered career optimization platform designed to bridge the gap between your experience and your dream job.
+AI-powered career optimization platform designed to bridge the gap between candidate experience and professional opportunities.
 
-## 🚀 What is TargetedCV?
+## What is TargetedCV?
 
-TargetedCV (branded as **myCVpath**) is an advanced, multi-agent AI system that goes beyond simple resume building. It analyzes job descriptions in real-time, identifies missing keywords and experience gaps, and intelligently rewrites your CV to maximize relevance for ATS (Applicant Tracking Systems) and human recruiters.
+TargetedCV (myCVpath) is an advanced multi-agent AI system that enhances the resume creation process. It analyzes job descriptions in real-time, identifies key requirements and experience gaps, and optimizes CV content to improve relevance for both Applicant Tracking Systems (ATS) and human recruiters.
 
-## ✨ Key Features
+## Key Features
 
-- **Multi-Agent AI Pipeline**: A 6-agent orchestration system that handles CV parsing, validation, job analysis, and intelligent tailoring.
-- **ATS-Optimized Templates**: Generate beautiful, professional PDFs that are guaranteed to be readable by all major ATS platforms.
-- **Versioned Master CV**: Maintain one "Master CV" and generate job-specific snapshots, keeping your career history organized.
-- **Deep Job Analysis**: Understand exactly what recruiters are looking for with our semantic gap-analysis engine.
-
-## 📺 How it Works (Tutorial)
-
-Watch our quick walkthrough to see TargetedCV in action:
-
-[**Download/Watch Walkthrough Video**](https://github.com/CVpathway/TargetedCV/blob/main/walkthrough.mp4)
-
-> [!TIP]
-> This video demonstrates the full end-to-end workflow from importing your master CV to generating a tailored PDF for a specific job application.
+- **Multi-Agent AI Pipeline**: A synchronized system that manages CV parsing, job analysis, and content optimization.
+- **ATS-Optimized Formatting**: Professional output designed to maintain compatibility with major recruitment platforms.
+- **Versioned Master CV**: A centralized source of truth for career history, enabling the creation of job-specific tailored documents.
+- **Strategic Job Analysis**: Detailed identification of semantic gaps between candidate profiles and job requirements.
 
 ---
 
